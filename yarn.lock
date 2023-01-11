@@ -453,10 +453,20 @@
   resolved "https://registry.yarnpkg.com/@fullcalendar/daygrid/-/daygrid-6.0.2.tgz#c67b90335d31ba145ff611fbfdba31edc1e9a925"
   integrity sha512-OoHo+HbKmunq2hy5K6T2390DmSwXIENxHBeKFPlUXHK48xD/zXQI3N1zRlZRd83+Yrq+vDF6l8ObO9PMu2leJw==
 
+"@fullcalendar/interaction@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/interaction/-/interaction-6.0.2.tgz#f346b00f703fad2e676bf1df869cce63aee016c8"
+  integrity sha512-RPWWCp6wdzVCc3XdcBUZuduFGX/mB8OrV2xBF5wrGFbGAZE3OYuEPcVnLF1SsC+pJVntG6z1fL5aQ/OM8nul9Q==
+
 "@fullcalendar/list@^6.0.2":
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/@fullcalendar/list/-/list-6.0.2.tgz#bdc40c4ba8c05c7c17edde63a6876e62a70d43c9"
   integrity sha512-xeTNqGgQvW6u2isX8P3IV8w19Jzn/4Fs6nNc5tiEs0WJ6zd1bYEfruzDL0WPMMmcydgpkv0YHTLMwlnlFeq9+g==
+
+"@fullcalendar/react@^6.0.2":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@fullcalendar/react/-/react-6.0.2.tgz#0a38979ff7fa36e0fe36d6c49140f7718126fb5d"
+  integrity sha512-/rL21DcgD3CGwrB/0zpqJxcWoK2rb/AF7rcuvwgjsmUCd7Xv9/syY7yuHbhIw3/WnFE3Qz7KL3u8vEjILwlwiA==
 
 "@fullcalendar/timegrid@^6.0.2":
   version "6.0.2"
